@@ -1,0 +1,47 @@
+body {
+    background-color: #2d789e;
+}
+
+
+p {
+    font-family: fantasy;
+}
+
+#motto {
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: right;
+    font-size: 50px;
+}
+
+#fightsplash {
+    border-image: auto;
+}
+
+h1 {
+font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#story {
+height: auto;
+width: 500px;
+margin-left: 50px;
+background-color: #8ab8ff;
+font-size: 20px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+padding: auto;
+border-radius: 25px;
+}
+
+#img-with-text {
+    text-align: justify;
+    width: 400px;
+   background-color: ;
+}
+
+#img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
